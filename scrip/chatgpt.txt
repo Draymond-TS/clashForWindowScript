@@ -1,0 +1,11 @@
+payload:
+  - '+.openai.com'
+  - '+.openaiapi.com'
+  - '+.challenges.cloudflare.com'
+  - '+.auth0.openai.com'
+  - '+.platform.openai.com'
+  - '+.ai.com'
+  - '+.stripe.com'
+  - '+.stripecdn.com'
+  - '+.intercom.io'
+  - '+.intercomcdn.io'
